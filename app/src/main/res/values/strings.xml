@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmsForwarder</string>
+    <string name="permission_not_granted">Permission to read/send sms not granted :(</string>
+    <string name="try_again">Try again</string>
+    <string name="phone_number_input">Enter phone number to forward to:</string>
+    <string name="activate">Activate</string>
+    <string name="deactivate">Deactivate</string>
+</resources>
